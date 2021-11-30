@@ -37,3 +37,5 @@ For input as sum of product, use the above rule and put a "+" sign in between pr
 For example <br>
 00 + 11 can be represented as "ab + AB".<br>
 Note: The spacing need not be considered; any valid spacing is allowed.<br>
+# Author
+Vipin Singh
